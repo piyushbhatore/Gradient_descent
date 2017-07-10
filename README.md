@@ -1,4 +1,4 @@
-# Gradient Descent
+# Linear_Regression
 This ist the basic implementation of gradient descent from scratch
 ## main.py
 This file comtains the code for implementing the gradient descent in 4 different ways
